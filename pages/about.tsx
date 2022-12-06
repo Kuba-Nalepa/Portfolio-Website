@@ -34,7 +34,7 @@ export default function About() {
             passion since that time, so everyday I learn more and more new things. My main programming
              language is Kotlin. Meantime I was doing internship as Web Developer, which I ended by the end of 
             November.</p>
-          <p>Currently I'm unemployed, however, I am willing to collaborate with You!</p>
+          <p>Currently I am unemployed, however, I am willing to collaborate with You!</p>
           <p>This website was created using <i>ReactJS</i></p>
         </div>
       </div>
