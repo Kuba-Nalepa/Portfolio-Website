@@ -5,11 +5,11 @@ import Project from '../components/Project'
 import Footer from '../components/Footer'
 
 export default function Home() {
-  const project1Description = "Application that alows user to create and managing notes. There are functionalities such as deleting, or editing chosen note. This application has been made using following: Room Database, MVVM, View Binding, Navigation component"
+  const project1Description = "Application that alows user to create and managing notes. There are functionalities such as deleting, or editing chosen note. This application has been made using following: Room Database, MVVM, View Binding, Navigation component."
 
   const project2Description = "Second application I've made is converting sentences onto cipher.  It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.  "
 
-  const project3Description = ""
+  const project3Description = "It is program that takes the number written in console, and changing them to be  divisible by three. But there are major conditions: 'changing' means increasing (decreasing is not allowed) any of it digits. There are only six changes total for those numbers. And sum of three numbers should be as large as possible."
 
   const logos = [
     'Kotlin_logo.png',
