@@ -25,7 +25,7 @@ export default function Gallery(props: {images: string[]}) {
     }
     return(
         <div>    
-            <div className=" h-64 w-72 relative border border-white/40 rounded shadow-main overflow-hidden group">
+            <div className="  relative border border-white/40 rounded shadow-main overflow-hidden group">
                 <img className=" h-full w-full object-contain py-6 px-12" src={props.images[index]}/>
                 <button onClick={() => changeImage(false)} className="h-full p-2 absolute top-0 left-0 md:-left-8 bg-gradient-to-r from-black/75 flex items-center md:group-hover:left-0 transition-all duration-300 ease-out">
                 <FontAwesomeIcon icon={faArrowLeft} className="w-[20px]"/>
